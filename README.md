@@ -2,5 +2,5 @@
 To compress:
   python compress.py [input] [binary_output]
   
-To compress:
+To decompress:
   python decompress.py [binary_input] [output]
